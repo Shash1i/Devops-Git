@@ -1,2 +1,2 @@
 # Devops-Git
-learning about git hub
+learning about git hub from online tutorials 
